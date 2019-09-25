@@ -35,3 +35,12 @@
 - [soltys/vscode-il](https://github.com/soltys/vscode-il)
 - [Tagliatti/BoletoNetCore](https://github.com/Tagliatti/BoletoNetCore)
 - [YappyBots/YappyGitLab](https://github.com/YappyBots/YappyGitLab)
+
+# Contact
+[bruno@logerfo.tk](mailto:bruno@logerfo.tk)
+
+# Donate
+
+<img src="https://i.imgur.com/ndlBtuX.png" width="200">
+
+BTC: 1LoGErFoNzE1gCA5fzk6A82nV6iJdKssSZ

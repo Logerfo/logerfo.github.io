@@ -1,0 +1,11 @@
+{
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false,
+    },
+    "spellright.language": [
+        "en"
+    ],
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+}

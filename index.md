@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 # My projects
 ## Visual Studio Code extensions
 - [Logerfo/cd-repo](https://github.com/Logerfo/cd-repo)

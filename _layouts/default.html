@@ -30,7 +30,7 @@
             {% endif %}
                 <h1>
                     {% if site.profile.url %}
-                        <a href="{{ site.profile.url }}" style="text-decoration: none; text-shadow: none; color: #b5e853">
+                        <a href="{{ site.profile.url }}" style="text-decoration: none; color: #b5e853">
                     {% endif %}
                     {{ site.title | default: site.github.repository_name }}
                     {% if site.profile.url %}
@@ -39,7 +39,7 @@
                 </h1>
                 <h2>
                     {% if site.profile.description_url %}
-                        <a href="{{ site.profile.description_url }}" style="text-decoration: none; text-shadow: none; color: #666">
+                        <a href="{{ site.profile.description_url }}" style="text-decoration: none; color: #666">
                     {% endif %}
                     {{ site.description | default: site.github.project_tagline }}
                     {% if site.profile.descrption_url %}

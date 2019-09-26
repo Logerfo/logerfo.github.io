@@ -27,8 +27,11 @@ ul li {
     list-style-type: none;
     list-style-image: none;
 }
-
 li:before {
     content: "> ";
     color: #b5e853;
+}
+
+body a {
+    text-shadow: none;
 }

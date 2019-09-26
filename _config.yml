@@ -3,3 +3,5 @@ github: [metadata]
 google_analytics: UA-148828272-1
 title: Bruno Logerfo
 description: bruno@logerfo.tk
+github:
+  repository_url: https://github.com/Logerfo/logerfo.github.io

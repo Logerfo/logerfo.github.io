@@ -16,7 +16,13 @@
         <div class="container">
             {% if site.profile.picture %}
                 <div style="float:left">
+                    {% if site.profile.picture_url %}
+                        <a href="{{ site.profile.picture_url }}">
+                    {% endif %}
                     <img src="{{ site.profile.picture }}" width=130px>
+                    {% if site.profile.picture_url %}
+                        </a>
+                    {% endif %}
                 </div>
                 <div style="margin-left:185px">
             {% else %}

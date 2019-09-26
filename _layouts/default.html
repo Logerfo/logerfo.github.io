@@ -22,7 +22,15 @@
             {% else %}
                 <div>
             {% endif %}
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+                <h1>
+                    {% if site.profile.url %}
+                        <a href="{{ site.profile.url }}" style="text-decoration: none; color: #b5e853">
+                    {% endif %}
+                    {{ site.title | default: site.github.repository_name }}
+                    {% if site.profile.url %}
+                        </a>
+                    {% endif %}
+                </h1>
                 <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
                 <section id="downloads">

@@ -1,4 +1,6 @@
-# Help
+---
+published: false
+---
 
 ## Requirements
 - [Ruby](https://rubyinstaller.org/downloads/)

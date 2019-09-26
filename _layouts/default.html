@@ -31,7 +31,15 @@
                         </a>
                     {% endif %}
                 </h1>
-                <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+                <h2>
+                    {% if site.profile.description_url %}
+                        <a href="{{ site.profile.description_url }}" style="text-decoration: none; text-shadow: none; color: #666">
+                    {% endif %}
+                    {{ site.description | default: site.github.project_tagline }}
+                    {% if site.profile.descrption_url %}
+                        </a>
+                    {% endif %}
+                </h2>
 
                 <section id="downloads">
                     {% if site.show_downloads %}

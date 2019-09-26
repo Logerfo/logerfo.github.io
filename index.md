@@ -48,7 +48,7 @@ title: ""
 - [YappyBots/YappyGitLab](https://github.com/YappyBots/YappyGitLab)
 
 # Contact
-[bruno@logerfo.tk](mailto:bruno@logerfo.tk)
+- [bruno@logerfo.tk](mailto:bruno@logerfo.tk)
 
 # Donate
 <img src="https://i.imgur.com/ndlBtuX.png" width="200">

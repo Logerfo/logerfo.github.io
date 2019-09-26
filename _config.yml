@@ -10,3 +10,5 @@ profile:
   picture_url: https://github.com/Logerfo
   url: https://logerfo.tk
   description_url: mailto:bruno@logerfo.tk
+plugins:
+  - jekyll-sitemap

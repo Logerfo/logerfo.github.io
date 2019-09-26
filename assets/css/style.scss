@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+@font-face { font-family: Fira-Code; src: url('../fonts/FiraCode-Regular.otf'); }
+@font-face { font-family: Fira-Code; font-weight: bold; src: url('../fonts/FiraCode-Bold.otf'); }
+@font-face { font-family: Fira-Code; font-weight: lighter; src: url('../fonts/FiraCode-Light.otf'); }
+
+body {
+    font-family: Fira-Code;
+}
+
+code {
+    font-family: Fira-Code;
+    font-size: 15px;
+}
+
+header h1 {
+    font-family: Fira-Code;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Fira-Code;
+}
+
+ul li {
+    list-style-type: none;
+    list-style-image: none;
+}
+
+li:before {
+    content: "> ";
+    color: #b5e853;
+}

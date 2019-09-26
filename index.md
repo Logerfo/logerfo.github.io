@@ -23,6 +23,10 @@ title: ""
 ## This website
 - [Logerfo/logerfo.github.io](https://github.com/Logerfo/logerfo.github.io)
 
+## Gists
+- [Logerfo/AutoHotkey](https://gist.github.com/Logerfo/45d0009ad12f7ccd9015713cc9a60bb9)
+- [Logerfo/regs](https://gist.github.com/Logerfo/5640d7a3c00f54e703ef8c04b4733381)
+
 # Projects I contributed to
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror)
 - [Commit451/skyhook](https://github.com/Commit451/skyhook)

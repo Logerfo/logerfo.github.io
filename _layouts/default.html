@@ -14,10 +14,14 @@
 
     <header>
         <div class="container">
-            <div style="float:left">
-                <img src="{{ site.profile.picture }}" width=130px>
-            </div>
-            <div style="margin-left:185px">
+            {% if site.profile.picture %}
+                <div style="float:left">
+                    <img src="{{ site.profile.picture }}" width=130px>
+                </div>
+                <div style="margin-left:185px">
+            {% else %}
+                <div>
+            {% endif %}
                 <h1>{{ site.title | default: site.github.repository_name }}</h1>
                 <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 

@@ -32,6 +32,7 @@ title: ""
 - [Commit451/skyhook](https://github.com/Commit451/skyhook)
 - [darkreader/darkreader](https://github.com/darkreader/darkreader)
 - [davidvidmar/Cryker](https://github.com/davidvidmar/Cryker)
+- [dotnet/csharplang](https://github.com/dotnet/csharplang)
 - [dotnet/core](https://github.com/dotnet/core)
 - [dotnet/ILMerge](https://github.com/dotnet/ILMerge)
 - [dotnet/roslyn](https://github.com/dotnet/roslyn)

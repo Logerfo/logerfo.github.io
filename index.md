@@ -28,6 +28,7 @@ title: ""
 - [Logerfo/regs](https://gist.github.com/Logerfo/5640d7a3c00f54e703ef8c04b4733381)
 
 # Projects I contributed to
+- [agatlin/vscode-cypher-query-language-tools](https://github.com/agatlin/vscode-cypher-query-language-tools)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror)
 - [Commit451/skyhook](https://github.com/Commit451/skyhook)
 - [darkreader/darkreader](https://github.com/darkreader/darkreader)

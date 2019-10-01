@@ -37,6 +37,7 @@ title: ""
 - [dotnet/ILMerge](https://github.com/dotnet/ILMerge)
 - [dotnet/roslyn](https://github.com/dotnet/roslyn)
 - [fabiospampinato/vscode-github-notifications-bell](https://github.com/fabiospampinato/vscode-github-notifications-bell)
+- [Gruntfuggly/mermaid-export](https://github.com/Gruntfuggly/mermaid-export)
 - [JetBrains/teamcity-pipelines-dsl](https://github.com/JetBrains/teamcity-pipelines-dsl)
 - [jlelong/LaTeX-Workshop-wiki](https://github.com/jlelong/LaTeX-Workshop-wiki)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)

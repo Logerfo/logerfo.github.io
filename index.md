@@ -44,6 +44,7 @@ title: ""
 - [jlelong/LaTeX-Workshop-wiki](https://github.com/jlelong/LaTeX-Workshop-wiki)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
 - [k9982874/github-gist-explorer](https://github.com/k9982874/github-gist-explorer)
+- [kotfire/vscode-php-add-property](https://github.com/kotfire/vscode-php-add-property)
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp)
 - [microsoft/vscode](https://github.com/microsoft/vscode)
 - [piceaTech/node-gitlab-2-github](https://github.com/piceaTech/node-gitlab-2-github)

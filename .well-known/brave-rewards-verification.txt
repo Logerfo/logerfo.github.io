@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: logerfo.tk
-Token: 6aafc47e32455e6c7a78ecef29a49fcf5f06ce4a6466473f74007deeca6bf826

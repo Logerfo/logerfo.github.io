@@ -37,6 +37,7 @@ title: ""
 - [dotnet/core](https://github.com/dotnet/core)
 - [dotnet/ILMerge](https://github.com/dotnet/ILMerge)
 - [dotnet/roslyn](https://github.com/dotnet/roslyn)
+- [dotnet/winforms](https://github.com/dotnet/winforms)
 - [draivin/hsnips](https://github.com/draivin/hsnips)
 - [fabiospampinato/vscode-github-notifications-bell](https://github.com/fabiospampinato/vscode-github-notifications-bell)
 - [Gruntfuggly/mermaid-export](https://github.com/Gruntfuggly/mermaid-export)

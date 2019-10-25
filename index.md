@@ -16,6 +16,7 @@ title: ""
 ## GitHub Apps/Actions
 - [Logerfo/close-label](https://github.com/Logerfo/close-label)
 - [Logerfo/gitflow-action](https://github.com/Logerfo/gitflow-action)
+- [Logerfo/newline-action](https://github.com/Logerfo/newline-action)
 
 ## Miscellaneous
 - [Logerfo/RBTray](https://github.com/Logerfo/RBTray)

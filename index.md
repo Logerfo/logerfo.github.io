@@ -14,6 +14,7 @@ title: ""
 - [Logerfo/sln-support](https://github.com/Logerfo/sln-support)
 
 ## GitHub Apps/Actions
+- [Logerfo/close-action](https://github.com/Logerfo/close-action)
 - [Logerfo/close-label](https://github.com/Logerfo/close-label)
 - [Logerfo/gitflow-action](https://github.com/Logerfo/gitflow-action)
 - [Logerfo/newline-action](https://github.com/Logerfo/newline-action)

@@ -57,9 +57,6 @@ title: ""
 - [Tagliatti/BoletoNetCore](https://github.com/Tagliatti/BoletoNetCore/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [YappyBots/YappyGitLab](https://github.com/YappyBots/YappyGitLab/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 
-# Contact
-- [bruno@logerfo.tk](mailto:bruno@logerfo.tk)
-
 # Donate
 <img src="https://i.imgur.com/ndlBtuX.png" width="200">
 

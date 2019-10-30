@@ -43,7 +43,6 @@ title: ""
 - [dotnet/winforms](https://github.com/dotnet/winforms/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [draivin/hsnips](https://github.com/draivin/hsnips/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [fabiospampinato/vscode-github-notifications-bell](https://github.com/fabiospampinato/vscode-github-notifications-bell/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
-- [Gruntfuggly/mermaid-export](https://github.com/Gruntfuggly/mermaid-export/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [JetBrains/teamcity-pipelines-dsl](https://github.com/JetBrains/teamcity-pipelines-dsl/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [jlelong/LaTeX-Workshop-wiki](https://github.com/jlelong/LaTeX-Workshop-wiki/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)

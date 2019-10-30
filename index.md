@@ -35,7 +35,7 @@ title: ""
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [Commit451/skyhook](https://github.com/Commit451/skyhook/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [darkreader/darkreader](https://github.com/darkreader/darkreader/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
-- [davidvidmar/Cryker](https://github.com/davidvidmar/Cryker/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
+- [davidvidmar/Crycker](https://github.com/davidvidmar/Crycker/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/csharplang](https://github.com/dotnet/csharplang/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/core](https://github.com/dotnet/core/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/ILMerge](https://github.com/dotnet/ILMerge/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)

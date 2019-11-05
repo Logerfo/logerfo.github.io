@@ -4,32 +4,32 @@ title: ""
 
 # My projects
 ## Visual Studio Code extensions
-- [Logerfo/cd-repo](https://github.com/Logerfo/cd-repo)
-- [Logerfo/csharp-colors](https://github.com/Logerfo/csharp-colors)
-- [Logerfo/gitlab-notifications](https://github.com/Logerfo/gitlab-notifications)
-- [Logerfo/gzip-status](https://github.com/Logerfo/gzip-status)
-- [Logerfo/json-trimmer](https://github.com/Logerfo/json-trimmer)
-- [Logerfo/open-all-files](https://github.com/Logerfo/open-all-files)
-- [Logerfo/procfile-support](https://github.com/Logerfo/procfile-support)
-- [Logerfo/sln-support](https://github.com/Logerfo/sln-support)
+- [cd-repo](https://github.com/Logerfo/cd-repo)
+- [csharp-colors](https://github.com/Logerfo/csharp-colors)
+- [gitlab-notifications](https://github.com/Logerfo/gitlab-notifications)
+- [gzip-status](https://github.com/Logerfo/gzip-status)
+- [json-trimmer](https://github.com/Logerfo/json-trimmer)
+- [open-all-files](https://github.com/Logerfo/open-all-files)
+- [procfile-support](https://github.com/Logerfo/procfile-support)
+- [sln-support](https://github.com/Logerfo/sln-support)
 
 ## GitHub Apps/Actions
-- [Logerfo/close-action](https://github.com/Logerfo/close-action)
-- [Logerfo/close-label](https://github.com/Logerfo/close-label)
-- [Logerfo/gitflow-action](https://github.com/Logerfo/gitflow-action)
-- [Logerfo/newline-action](https://github.com/Logerfo/newline-action)
-- [Logerfo/target-label-action](https://github.com/Logerfo/target-label-action)
+- [close-action](https://github.com/Logerfo/close-action)
+- [close-label](https://github.com/Logerfo/close-label)
+- [gitflow-action](https://github.com/Logerfo/gitflow-action)
+- [newline-action](https://github.com/Logerfo/newline-action)
+- [target-label-action](https://github.com/Logerfo/target-label-action)
 
 ## Miscellaneous
-- [Logerfo/RBTray](https://github.com/Logerfo/RBTray)
-- [Logerfo/Windows](https://github.com/Logerfo/Windows)
+- [RBTray](https://github.com/Logerfo/RBTray)
+- [Windows](https://github.com/Logerfo/Windows)
 
 ## This website
-- [Logerfo/logerfo.github.io](https://github.com/Logerfo/logerfo.github.io)
+- [logerfo.github.io](https://github.com/Logerfo/logerfo.github.io)
 
 ## Gists
-- [Logerfo/AutoHotkey](https://gist.github.com/Logerfo/45d0009ad12f7ccd9015713cc9a60bb9)
-- [Logerfo/regs](https://gist.github.com/Logerfo/5640d7a3c00f54e703ef8c04b4733381)
+- [AutoHotkey](https://gist.github.com/Logerfo/45d0009ad12f7ccd9015713cc9a60bb9)
+- [regs](https://gist.github.com/Logerfo/5640d7a3c00f54e703ef8c04b4733381)
 
 # Projects I contributed to
 ## Major Contributions

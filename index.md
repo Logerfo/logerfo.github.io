@@ -58,6 +58,7 @@ title: ""
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [microsoft/vscode](https://github.com/microsoft/vscode/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
+- [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [soltys/vscode-il](https://github.com/soltys/vscode-il/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 
 # Donate

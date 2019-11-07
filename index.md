@@ -37,6 +37,7 @@ title: ""
 - [fabiospampinato/vscode-github-notifications-bell](https://github.com/fabiospampinato/vscode-github-notifications-bell/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [piceaTech/node-gitlab-2-github](https://github.com/piceaTech/node-gitlab-2-github/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [Tagliatti/BoletoNetCore](https://github.com/Tagliatti/BoletoNetCore/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [YappyBots/YappyGitLab](https://github.com/YappyBots/YappyGitLab/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 

@@ -19,6 +19,7 @@ title: ""
 - [gitflow-action](https://github.com/Logerfo/gitflow-action)
 - [newline-action](https://github.com/Logerfo/newline-action)
 - [target-label-action](https://github.com/Logerfo/target-label-action)
+- [triage-action](https://github.com/Logerfo/triage-action)
 
 ## Miscellaneous
 - [RBTray](https://github.com/Logerfo/RBTray)

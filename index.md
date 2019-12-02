@@ -53,6 +53,7 @@ title: ""
 - [dotnet/roslyn](https://github.com/dotnet/roslyn/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/winforms](https://github.com/dotnet/winforms/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [draivin/hsnips](https://github.com/draivin/hsnips/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
+- [jaredpar/jaredpar.github.io](https://github.com/jaredpar/jaredpar.github.io/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [JetBrains/teamcity-pipelines-dsl](https://github.com/JetBrains/teamcity-pipelines-dsl/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [jlelong/LaTeX-Workshop-wiki](https://github.com/jlelong/LaTeX-Workshop-wiki/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [k9982874/github-gist-explorer](https://github.com/k9982874/github-gist-explorer/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)

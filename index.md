@@ -49,6 +49,7 @@ title: ""
 - [Commit451/skyhook](https://github.com/Commit451/skyhook/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [darkreader/darkreader](https://github.com/darkreader/darkreader/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/core](https://github.com/dotnet/core/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
+- [dotnet/core-sdk](https://github.com/dotnet/core-sdk/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/csharplang](https://github.com/dotnet/csharplang/commits?author=Logerfo)
 - [dotnet/ILMerge](https://github.com/dotnet/ILMerge/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/roslyn](https://github.com/dotnet/roslyn/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)

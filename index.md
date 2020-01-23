@@ -35,6 +35,7 @@ title: ""
 # Projects I contributed to
 ## Major Contributions
 - [davidvidmar/Crycker](https://github.com/davidvidmar/Crycker/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
+- [dotnet/winforms](https://github.com/dotnet/winforms/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [fabiospampinato/vscode-github-notifications-bell](https://github.com/fabiospampinato/vscode-github-notifications-bell/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [piceaTech/node-gitlab-2-github](https://github.com/piceaTech/node-gitlab-2-github/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
@@ -51,7 +52,6 @@ title: ""
 - [dotnet/csharplang](https://github.com/dotnet/csharplang/commits?author=Logerfo)
 - [dotnet/ILMerge](https://github.com/dotnet/ILMerge/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/roslyn](https://github.com/dotnet/roslyn/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
-- [dotnet/winforms](https://github.com/dotnet/winforms/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [draivin/hsnips](https://github.com/draivin/hsnips/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [igorocampos/ESCPOS](https://github.com/igorocampos/ESCPOS/commit/65926a9c5c4beeacd9165baa2cf271f650bcb322)
 - [jaredpar/jaredpar.github.io](https://github.com/jaredpar/jaredpar.github.io/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)

@@ -55,6 +55,7 @@ title: ""
 - [dotnet/roslyn](https://github.com/dotnet/roslyn/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/runtime](https://github.com/dotnet/runtime/issues/1260#issuecomment-578878527)
 - [draivin/hsnips](https://github.com/draivin/hsnips/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
+- [Gruntfuggly/mermaid-export](https://github.com/Gruntfuggly/mermaid-export/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [igorocampos/ESCPOS](https://github.com/igorocampos/ESCPOS/commit/65926a9c5c4beeacd9165baa2cf271f650bcb322)
 - [jaredpar/jaredpar.github.io](https://github.com/jaredpar/jaredpar.github.io/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [JetBrains/teamcity-pipelines-dsl](https://github.com/JetBrains/teamcity-pipelines-dsl/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)

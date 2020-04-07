@@ -51,6 +51,7 @@ title: ""
 - [dotnet/core](https://github.com/dotnet/core/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/core-sdk](https://github.com/dotnet/core-sdk/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/csharplang](https://github.com/dotnet/csharplang/issues?q=is%3Aissue+author%3A%40me+sort%3Aupdated-desc+is%3Aopen)[<sup>*</sup>](https://github.com/dotnet/csharplang/commits?author=Logerfo)
+- [dotnet/EntityFramework.Docs](https://github.com/dotnet/EntityFramework.Docs/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/ILMerge](https://github.com/dotnet/ILMerge/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/roslyn](https://github.com/dotnet/roslyn/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/runtime](https://github.com/dotnet/runtime/issues/1260#issuecomment-578878527)

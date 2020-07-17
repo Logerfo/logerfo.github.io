@@ -44,6 +44,7 @@ title: ""
 - [YappyBots/YappyGitLab](https://github.com/YappyBots/YappyGitLab/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 
 ## Minor contributions
+- [actions/typescript-action](https://github.com/actions/typescript-action/pulls?q=is%3Apr+author%3A%40me+sort%3Aupdated-desc+is%3Amerged)
 - [agatlin/vscode-cypher-query-language-tools](https://github.com/agatlin/vscode-cypher-query-language-tools/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [Commit451/skyhook](https://github.com/Commit451/skyhook/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)

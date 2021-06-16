@@ -58,6 +58,7 @@ title: ""
 - [dotnet/runtime](https://github.com/dotnet/runtime/issues?q=author%3A%40me+sort%3Aupdated-desc)[<sup>*</sup>](https://github.com/dotnet/runtime/issues/1260#issuecomment-578878527)
 - [dotnet/sdk](https://github.com/dotnet/sdk/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [draivin/hsnips](https://github.com/draivin/hsnips/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
+- [enyancc/vscode-ext-color-highlight/](https://github.com/enyancc/vscode-ext-color-highlight/pull/61)
 - [goessner/mdmath](https://github.com/goessner/mdmath/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [Gruntfuggly/mermaid-export](https://github.com/Gruntfuggly/mermaid-export/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [imagine-beyond/teste-netcore](https://github.com/imagine-beyond/teste-netcore/pulls?q=is%3Amerged+is%3Apr+author%3A%40me+sort%3Aupdated-desc)

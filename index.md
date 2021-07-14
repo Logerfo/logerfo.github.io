@@ -36,6 +36,7 @@ title: ""
 ## Major Contributions
 - [davidvidmar/Crycker](https://github.com/davidvidmar/Crycker/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [dotnet/winforms](https://github.com/dotnet/winforms/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
+- [edmundhung/maildog](https://github.com/edmundhung/maildog/issues?q=sort%3Aupdated-desc+author%3ALogerfo+)
 - [fabiospampinato/vscode-github-notifications-bell](https://github.com/fabiospampinato/vscode-github-notifications-bell/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [piceaTech/node-gitlab-2-github](https://github.com/piceaTech/node-gitlab-2-github/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)

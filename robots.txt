@@ -1,0 +1,6 @@
+Sitemap: https://logerfo.tk/sitemap.xml
+
+User-agent: *
+
+Disallow: /404
+Disallow: /vax/

@@ -11,7 +11,7 @@
 </head>
 
 <body>
-
+    {% if site.header | default:true %}
     <header>
         <div class="container">
             {% if site.profile.picture %}
@@ -57,7 +57,7 @@
             </div>
         </div>
     </header>
-
+    {% endif %}
     <div class="container">
         <section id="main_content">
             {{ content }}

@@ -3,4 +3,4 @@ permalink: /vax.html
 header: false
 ---
 ![QR Code](qrcode.jpg)
-ed6dcb70-cbb8-4883-a2ec-31b479a93352
+W8H6.XSJ7.4M4D.1UHI

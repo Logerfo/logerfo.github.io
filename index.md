@@ -74,6 +74,7 @@ title: ""
 - [MicrosoftDocs/visualstudio-docs](https://github.com/MicrosoftDocs/visualstudio-docs/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
+- [reinforced/Reinforced.Typings](https://github.com/reinforced/Reinforced.Typings/pulls?q=is%3Apr+author%3A%40me+sort%3Aupdated-desc+is%3Amerged)
 - [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [soltys/vscode-il](https://github.com/soltys/vscode-il/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 

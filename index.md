@@ -64,6 +64,7 @@ title: ""
 - [Gruntfuggly/mermaid-export](https://github.com/Gruntfuggly/mermaid-export/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [imagine-beyond/teste-netcore](https://github.com/imagine-beyond/teste-netcore/pulls?q=is%3Amerged+is%3Apr+author%3A%40me+sort%3Aupdated-desc)
 - [igorocampos/ESCPOS](https://github.com/igorocampos/ESCPOS/commit/65926a9c5c4beeacd9165baa2cf271f650bcb322)
+- [jaredkrinke/sic1](https://github.com/jaredkrinke/sic1/pulls?q=is%3Apr+author%3A%40me+sort%3Aupdated-desc+is%3Amerged)
 - [jaredpar/jaredpar.github.io](https://github.com/jaredpar/jaredpar.github.io/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [JetBrains/teamcity-pipelines-dsl](https://github.com/JetBrains/teamcity-pipelines-dsl/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [jlelong/LaTeX-Workshop-wiki](https://github.com/jlelong/LaTeX-Workshop-wiki/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)

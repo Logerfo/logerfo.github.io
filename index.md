@@ -21,6 +21,10 @@ title: ""
 - [target-label-action](https://github.com/Logerfo/target-label-action)
 - [triage-action](https://github.com/Logerfo/triage-action)
 
+## Back-end applications (in collaboration)
+- [VSPoll.API](https://github.com/valamistudio/vspoll.api)
+- [Surdobot](https://github.com/valamistudio/surdobot)
+
 ## Miscellaneous
 - [RBTray](https://github.com/Logerfo/RBTray)
 - [Windows](https://github.com/Logerfo/Windows)

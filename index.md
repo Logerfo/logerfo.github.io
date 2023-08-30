@@ -6,7 +6,7 @@ title: ""
 ## Visual Studio Code extensions
 - [cd-repo](https://github.com/Logerfo/cd-repo)
 - [csharp-colors](https://github.com/Logerfo/csharp-colors)
-- [gitlab-notifications](https://github.com/Logerfo/gitlab-notifications)
+- [lab-notifications](https://github.com/Logerfo/lab-notifications)
 - [gzip-status](https://github.com/Logerfo/gzip-status)
 - [json-trimmer](https://github.com/Logerfo/json-trimmer)
 - [open-all-files](https://github.com/Logerfo/open-all-files)

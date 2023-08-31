@@ -21,20 +21,15 @@ title: ""
 - [target-label-action](https://github.com/Logerfo/target-label-action)
 - [triage-action](https://github.com/Logerfo/triage-action)
 
-## Back-end applications (in collaboration)
+## Back-end applications
 - [VSPoll.API](https://github.com/valamistudio/vspoll.api)
 - [Surdobot](https://github.com/valamistudio/surdobot)
 
 ## Miscellaneous
 - [RBTray](https://github.com/Logerfo/RBTray)
-- [Windows](https://github.com/Logerfo/Windows)
 
 ## This website
 - [logerfo.github.io](https://github.com/Logerfo/logerfo.github.io)
-
-## Gists
-- [AutoHotkey](https://gist.github.com/Logerfo/45d0009ad12f7ccd9015713cc9a60bb9)
-- [regs](https://gist.github.com/Logerfo/5640d7a3c00f54e703ef8c04b4733381)
 
 # Projects I contributed to
 ## Major Contributions

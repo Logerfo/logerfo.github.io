@@ -13,6 +13,7 @@ profile:
   description_url: mailto:bruno@logerfo.tk
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 defaults:
   -
     scope:

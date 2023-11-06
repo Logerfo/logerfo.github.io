@@ -47,6 +47,7 @@ title: ""
 ## Minor contributions
 - [actions/typescript-action](https://github.com/actions/typescript-action/pulls?q=is%3Apr+author%3Alogerfo+sort%3Aupdated-desc+is%3Amerged)
 - [agatlin/vscode-cypher-query-language-tools](https://github.com/agatlin/vscode-cypher-query-language-tools/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
+- [bpruitt-goddard/vscode-mermaid-syntax-highlight](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight/pull/118)
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [Commit451/skyhook](https://github.com/Commit451/skyhook/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)
 - [darkreader/darkreader](https://github.com/darkreader/darkreader/pulls?q=is%3Amerged+is%3Apr+author%3ALogerfo+sort%3Aupdated-desc)

@@ -1,4 +1,4 @@
-Sitemap: https://logerfo.tk/sitemap.xml
+Sitemap: https://logerfo.com.br/sitemap.xml
 
 User-agent: *
 
